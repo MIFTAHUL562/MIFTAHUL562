@@ -1,36 +1,46 @@
-# Hi there, I'm MiftahuL! 👋
+<h1 align="center">Hi 👋, I'm Miftahul (Arfin)</h1>
+<h3 align="center">🚀 Frontend & Web Developer | Building Interactive 3D Web Apps</h3>
 
-### 🚀 AI Prompt Engineer & Frontend Web Developer
-
-I love building immersive 3D web experiences and crafting advanced AI prompts to solve complex problems.
-
-- 🛠️ Currently working on: **Interactive 3D Anatomy Explorer**
-- 🧠 Learning: **Advanced Three.js Shaders & AI Automation**
-- 💬 Ask me about: **React, Prompt Engineering, and 3D Web Design**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MIFTAHUL562&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-### 💻 Tech Stack & Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+### 🌟 Featured Project
+- 🩺 **[3D-Anatomy-Explorer](https://github.com/MIFTAHUL562/3D-Anatomy-Explorer)**: Interactive 3D Human Anatomy Explorer built with **React** and **Three.js**.
 
 ---
 
-### 🤖 AI Expertise
-- **ChatGPT & LLM Prompting**
-- **Midjourney Art Generation**
-- **AI-Powered Workflow Automation**
+### 🚀 About Me
+- 🔭 Working on: **Modern Web Applications & 3D Interactive Web Experiences**
+- 🌱 Learning: **Advanced React, Three.js, Node.js & Full-Stack Architecture**
+- 💬 Ask me about: **JavaScript, React, Three.js, Web Development**
+- ⚡ Goal: **Crafting high-performance, user-friendly digital solutions**
 
 ---
 
-### 📈 GitHub Stats
-![Miftahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIFTAHUL562&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIFTAHUL562&layout=compact&theme=radical)
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-✨ *Looking to build something amazing? Let's connect!*
+### 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MIFTAHUL562&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIFTAHUL562&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIFTAHUL562&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+</p>
